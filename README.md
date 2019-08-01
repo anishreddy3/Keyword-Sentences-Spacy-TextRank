@@ -9,6 +9,6 @@
 
 ## Instructions :
 <p>a. Place all text files in the root directory.<p>
-<p>b. Run keyword.ipynb to get most important keywords, name of the documents in which they are present, all sentences which use the respective keyword.<p>pip
+<p>b. Run keyword.ipynb to get most important keywords, name of the documents in which they are present, all sentences which use the respective keyword.<p>
 
 
