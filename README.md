@@ -1,4 +1,4 @@
-# Key Word extraction from multiple documents using Spacy
+# Key Word extraction from multiple documents using Spacy and TextRank algorithm
 
 ## Dependencies : 
 <p>Python >= 3.5<p>
